@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792254026180",
+    "project_id": "authc-bb127",
+    "storage_bucket": "authc-bb127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792254026180:android:ebcfd720a582b8be331491",
+        "android_client_info": {
+          "package_name": "com.example.auth_c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2QkTwgmjnm7-PKgjf1hvdi7ElylQA4m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
