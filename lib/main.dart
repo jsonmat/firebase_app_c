@@ -36,7 +36,7 @@ class MainApp extends StatefulWidget {
 
 class _MainAppState extends State<MainApp> {
   int selectedTab = 0;
-  bool uncompletedProfile = true;
+  bool uncompletedProfile = false;
   List<Widget> screens = [
     HomeScreen(),
     UsersScreen(),
